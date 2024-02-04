@@ -16,6 +16,6 @@ I know a little Python and I'm learning C# now.
 
 <details>
   <summary>my contacts</summary>
-  <b>Telegram:</b> <a href="https://l1wtt.t.me/">l1wtt</a><br>
-  <b>Discord:</b> l1wt<br>
+  <b>Telegram:</b> <a href="https://lr1ne.t.me/">lr1ne</a><br>
+  <b>Discord:</b> lr1ne<br>
 </details>
