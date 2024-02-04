@@ -10,7 +10,6 @@ I know a little Python and I'm learning C# now.
 
 
 ### programming languages:
-- ![csharp](https://img.shields.io/static/v1?label=&message=C%23&color=191919&style=for-the-badge&logo=C%20Sharp&logoColor=239120)
 - ![Python](https://img.shields.io/badge/python-191919?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 [![my wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeathOfALori&theme=radical)](https://wakatime.com/@DeathOfALori)
