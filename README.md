@@ -1,5 +1,4 @@
 # hi, i'm Lori
-I know a little Python and I'm learning C# now.
 
 ## info about me
 - Name: Kirill
