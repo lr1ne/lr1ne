@@ -14,4 +14,4 @@
 　＼二つ
 </pre>
 
-[![GitHub Stats](https://ghstats.dev/api/card?username=lr1ne\&theme=catppuccin\&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers\&custom_title=Stats\&border_radius=10)](https://github.com/lr1ne)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=lr1ne&theme=nord&show_ring=false&border_radius=6&hide=issues%2Chours%2Cstreak%2Cgrade%2Cactive_day%2Cavg%2Ctrend)
